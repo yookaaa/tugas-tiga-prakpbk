@@ -47,7 +47,7 @@
         <div class="hero-content">
           <div class="welcome-badge" :class="{ visible: welcomeVisible }">
             <span class="badge-icon">🎯</span>
-            <span class="badge-text">Welcome to yookaaStore</span>
+            <span class="badge-text">Welcome to the Future of Gaming</span>
           </div>
 
           <h1 class="hero-title">
