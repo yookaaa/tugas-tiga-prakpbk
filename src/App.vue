@@ -97,12 +97,12 @@ export default {
         { icon: '⚔️', title: 'Battle Arena', genre: 'Fighting', rating: '⭐⭐⭐⭐', downloads: '15K+' }
       ],
       games: [
-        { id: 1, title: "Cyber Knights 2024", genre: "Action RPG", rating: "⭐⭐⭐⭐⭐", price: "49.99", icon: "🤖" },
-        { id: 2, title: "Forest Quest", genre: "Adventure", rating: "⭐⭐⭐⭐⭐", price: "29.99", icon: "🌲" },
-        { id: 3, title: "Space Odyssey", genre: "Sci-Fi", rating: "⭐⭐⭐⭐⭐", price: "39.99", icon: "🚀" },
-        { id: 4, title: "Dragon's Realm", genre: "Fantasy", rating: "⭐⭐⭐⭐⭐", price: "59.99", icon: "🐉" },
-        { id: 5, title: "Racing Thunder", genre: "Racing", rating: "⭐⭐⭐⭐⭐", price: "34.99", icon: "🏎️" },
-        { id: 6, title: "Mystery Island", genre: "Puzzle", rating: "⭐⭐⭐⭐⭐", price: "24.99", icon: "🏝️" }
+        { id: 1, title: "Cyber Knights 2024", genre: "Action RPG", rating: "⭐⭐⭐⭐⭐", price: "49.000", icon: "🤖" },
+        { id: 2, title: "Forest Quest", genre: "Adventure", rating: "⭐⭐⭐⭐⭐", price: "29.000", icon: "🌲" },
+        { id: 3, title: "Space Odyssey", genre: "Sci-Fi", rating: "⭐⭐⭐⭐⭐", price: "39.000", icon: "🚀" },
+        { id: 4, title: "Dragon's Realm", genre: "Fantasy", rating: "⭐⭐⭐⭐⭐", price: "59.000", icon: "🐉" },
+        { id: 5, title: "Racing Thunder", genre: "Racing", rating: "⭐⭐⭐⭐⭐", price: "34.000", icon: "🏎️" },
+        { id: 6, title: "Mystery Island", genre: "Puzzle", rating: "⭐⭐⭐⭐⭐", price: "24.000", icon: "🏝️" }
       ]
     }
   },
